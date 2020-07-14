@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.heading {
+  text-align: center;
+}
+
+.userDiv{
+  border-style: solid;
+  width:300px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
